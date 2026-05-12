@@ -27,15 +27,15 @@ O objetivo desta entrevista é compreender detalhadamente os gargalos no gerenci
 3. Como o desconhecimento sobre o estado atual das peças (se estão funcionando perfeitamente, com defeito parcial ou emprestadas) impacta o prazo de montagem e entrega do robô para as competições?
 
 *Perguntas de Fluxos de Trabalho e Rotinas:*
-4. Quando você está no laboratório e constata que um componente queimou durante os testes práticos, qual é o fluxo exato que você segue hoje para relatar essa baixa e solicitar reposição?
-5. Qual é a rotina atual da sua categoria para fazer a conferência (check-in/check-out) dos materiais de hardware antes de viajar para um evento e logo após o retorno?
+1. Quando você está no laboratório e constata que um componente queimou durante os testes práticos, qual é o fluxo exato que você segue hoje para relatar essa baixa e solicitar reposição?
+2. Qual é a rotina atual da sua categoria para fazer a conferência (check-in/check-out) dos materiais de hardware antes de viajar para um evento e logo após o retorno?
 
 *Perguntas de Frustrações e Limitações:*
-6. Pensando nas ferramentas usadas hoje para controle de ativos (como planilhas soltas ou mensagens perdidas em grupos), qual é a maior limitação delas no seu dia a dia técnico?
-7. Qual é a sua maior frustração ao tentar realizar a manutenção corretiva em um robô que foi projetado e montado por membros de gestões passadas sem nenhuma documentação atualizada de hardware?
+1. Pensando nas ferramentas usadas hoje para controle de ativos (como planilhas soltas ou mensagens perdidas em grupos), qual é a maior limitação delas no seu dia a dia técnico?
+2. Qual é a sua maior frustração ao tentar realizar a manutenção corretiva em um robô que foi projetado e montado por membros de gestões passadas sem nenhuma documentação atualizada de hardware?
 
 *Pergunta de Encerramento:*
-8. Se o novo sistema pudesse automatizar ou facilitar de forma impecável apenas uma única etapa do seu trabalho com a gestão de hardware da equipe, qual recurso seria o mais valioso para você?
+1. Se o novo sistema pudesse automatizar ou facilitar de forma impecável apenas uma única etapa do seu trabalho com a gestão de hardware da equipe, qual recurso seria o mais valioso para você?
 
 **Minha reflexão:**
 A elaboração deste roteiro evidenciou que o desafio não é estritamente financeiro (a simples compra de novas peças), mas sim de fluxo de informação e retenção de conhecimento institucional. As perguntas focadas em rotinas e frustrações tentam mapear o ponto exato onde o método manual atual falha – geralmente na pressa do laboratório, durante a transição de membros ou na ausência de documentação de legado. O roteiro foi desenhado para extrair não apenas "o que" o usuário quer, mas "como" ele interage com o hardware físico na prática, garantindo que o software a ser desenvolvido se adapte ao fluxo real da oficina, evitando as respostas genéricas e o distanciamento do problema real propostos pelo enunciado da atividade.
