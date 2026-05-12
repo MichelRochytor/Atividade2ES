@@ -91,7 +91,7 @@ Ao redigir estas histórias baseadas nas respostas da entrevista, percebi que o 
 
 **Análise da História 2: Registro de Falha ou Queima de Hardware**
 **Ambiguidades nos critérios de aceitação:** O termo "breve descrição" é vago. É necessário definir se será um campo de texto livre (sujeito a descrições incompletas como "parou de funcionar") ou uma lista padronizada de sintomas (ex: "curto-circuito", "dano físico"). Além disso, o critério de atualizar o status automaticamente não define se o item continua contabilizado no patrimônio total da equipe.
-**Conflitos potenciais:** Pode haver conflito com a **História 1**[cite: 36]. Se o item for marcado como "Defeituoso", ele deve desaparecer completamente da busca de disponibilidade ou aparecer com uma tag de alerta? Se desaparecer, a equipe pode achar que não possui a peça e comprar outra desnecessariamente.
+**Conflitos potenciais:** Pode haver conflito com a **História 1**. Se o item for marcado como "Defeituoso", ele deve desaparecer completamente da busca de disponibilidade ou aparecer com uma tag de alerta? Se desaparecer, a equipe pode achar que não possui a peça e comprar outra desnecessariamente.
 **Informações a elucidar com o usuário:** Precisamos confirmar com a diretoria se qualquer membro tem permissão para "dar baixa" em um componente ou se o registro feito por um membro comum exige a aprovação posterior de um Diretor de Hardware para evitar baixas acidentais.
 
 **Análise da História 4: Gestão de Ativos para Competições (Check-out/Check-in)**
